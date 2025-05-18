@@ -140,5 +140,3 @@ Feel free to reach out!
 🧠
 
 Thanks for visiting! 😄
-
-1.	The 
