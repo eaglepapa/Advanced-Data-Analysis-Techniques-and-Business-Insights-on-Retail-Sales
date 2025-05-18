@@ -112,13 +112,16 @@ The analysis results are summarized as follows:
 
 ### Recommendations
 - Personalized Marketing
+  
   Marketing efforts should prioritize the high-value and medium-value groups for personalized promotions, loyalty programs, or exclusive content while cost-effective, broad-reach strategies can be used to engage the low-value segment and encourage upselling or reactivation.
 - Customer Retention Initiatives
+  
   Personalized communication by sending tailored emails or messages highlighting value-added services or offers they’ve previously responded to. 
   Offer loyalty discounts or limited-time promotions to encourage continued engagement.
   Prompt at-risk customers for feedback to understand potential dissatisfaction and adjust services accordingly.
 
 - Targeted Offers for High-Value Customers
+  
   Offer VIP-only discounts and early access to new products. Loyalty bonuses such as buy 3, get 1 free offer. Offer Premium support.
 
 
