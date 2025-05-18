@@ -10,7 +10,6 @@
 - [Results/Findings](#resultsfindings)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
-- [References](#references)
 - [Contact](#contact)
 
   
@@ -109,6 +108,7 @@ The analysis results are summarized as follows:
 
      ![Capture7](https://github.com/user-attachments/assets/dd59f18d-18c1-47b5-a801-343c9c984af7)
 
+    **Customers were grouped into three segments: high-value, medium-value, and low-value groups. There were 8 low-value customers, 6 medium-value customers and 2 high-value customers.**
 
 ### Recommendations
 - Personalized Marketing
@@ -123,9 +123,7 @@ The analysis results are summarized as follows:
 
 
 ### Limitations
-The .
-
-### References
+The findings may not be generalizable to other industries, because the data was related to a particular domain.
 
 
 ## Contact
